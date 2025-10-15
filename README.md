@@ -79,14 +79,11 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:krishmoond@gmail.com">
+  <a href="mailto:moondkrish921@gmail.com">
     <img src="https://img.shields.io/badge/Email-krishmoond%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/krishmoond">
+  <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
     <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/krishmoond">
-    <img src="https://img.shields.io/badge/Twitter-%40krishmoond-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
