@@ -60,10 +60,7 @@
 
 ---
 
-### 🎵 Now Playing on Spotify
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
-</p>
+ 
 
 ---
 
@@ -80,13 +77,13 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:moondkrish921@gmail.com">
-    <img src="https://img.shields.io/badge/Email-krishmoond%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=for-the-badge&logo=gmail&t=1" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
-    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin&t=1" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&t=1" alt="Portfolio" />
   </a>
 </p>
 
