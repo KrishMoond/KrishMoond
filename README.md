@@ -1,114 +1,95 @@
 <!--
-  🌟 Interactive GitHub Profile by Krish Moond
+  🧭 Professional GitHub Profile by Krish Moond
 -->
 
-<h1 align="center">Hey there 👋, I'm Krish Moond</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 Tech Explorer | ❤️ Open Source Enthusiast</h3>
+<h1 align="center">Krish Moond</h1>
+<h3 align="center">Full Stack Developer | Cloud & AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Welcome+to+my+GitHub+Profile!;I+build+interactive+web+apps;I+love+Python,+React,+and+Django" alt="Typing SVG" />
+  <a href="mailto:moondkrish921@gmail.com"><img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/krish-moond-39a914251/"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-View%20Site-green?style=flat&logo=vercel" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 Currently building: **AI-driven Web Apps**
-- 🌱 Learning: **Next.js | Machine Learning | Docker**
-- 🧩 I love solving real-world problems with code
-- 🎯 Goal 2025: Contribute to 5 open-source projects
-- 💬 Ask me about: **Django, React, Firebase, GitHub Automation**
-- ⚡ Fun fact: I can debug faster with coffee ☕
+### 👨‍💻 About Me
+
+I’m a **Full Stack Developer** with a passion for building scalable, maintainable, and impactful software products.  
+My focus areas include **Django**, **React**, and **Cloud-based applications**, where I combine creativity with engineering precision.
+
+- 💡 Exploring: **Next.js**, **Machine Learning**, and **DevOps workflows**
+- 🧩 Experienced with: REST APIs, CI/CD pipelines, and Dockerized deployments
+- 🤝 Open to collaborating on **sustainability-focused tech** or **open-source projects**
+- 🧠 Motto: *"Build with purpose. Code with clarity."*
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🧰 Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,git,github,vscode,mysql,firebase,docker,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,js,html,css,tailwind,git,github,linux,mysql,firebase,docker,postman,vscode&perline=7" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Insights
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishmoond&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmoond&theme=highcontrast" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishmoond&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmoond&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmoond&layout=compact&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=krishmoond&theme=onedark&column=4" />
-</p>
-
----
-
-### 🧠 Dynamic Stuff
-
-#### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First Django API 🚀](#)
-- [5 Tools to Automate GitHub Workflows 🤖](#)
-- [Mastering React Hooks in 2025 ⚛️](#)
-<!-- BLOG-POST-LIST:END -->
-
-#### 💬 Random Dev Quote
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
-*(You can automate this with a GitHub Action using [readme-quotes](https://github.com/piyushsuthar/github-readme-quotes))*  
-
----
-
- 
-
----
-
-### 🏆 Badges & Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Learning-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmoond&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=krishmoond&theme=onedark&margin-w=15&row=1" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🏗️ Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [SustainLink 🌱](https://github.com/krishmoond/sustainlink) | A platform connecting eco-conscious individuals to collaborate on sustainability projects | Django, React, REST API |
+| [MailSync Dashboard 📬](https://github.com/krishmoond/mailsync) | Interactive email automation dashboard with attachment support | Django, JavaScript, Tailwind |
+| [Cloud Validator ☁️](https://github.com/krishmoond/cloud-validator) | Validation scripts for Krutrim Cloud environments | Python, CI/CD, Docker |
+
+*(Add or update with your current project links)*
+
+---
+
+### 📚 Recent Posts & Contributions
+> “Learning by building is the fastest way to grow.”
+
+- [Building Scalable Django Apps with Docker](#)
+- [Next.js vs React: When to Choose Each](#)
+- [Automating GitHub Workflows for Efficiency](#)
+
+*(Automate updates via [dev.to API](https://docs.dev.to/api/) or a GitHub Action)*
+
+---
+
+### 🎖️ Achievements
 <p align="center">
-  <a href="mailto:moondkrish921@gmail.com">
-    <img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=for-the-badge&logo=gmail&t=1" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
-    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin&t=1" alt="LinkedIn" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&t=1" alt="Portfolio" />
-  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Cloud-Validated%20Intern-orange?style=flat&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=flat&logo=visualstudiocode" />
 </p>
 
 ---
 
-### 👁️ Visitor Count
+### 📫 Let's Connect
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishmoond&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="mailto:moondkrish921@gmail.com"><img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/krish-moond-39a914251/"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-### 🧩 Fun Mini Animation
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" alt="Coding Animation" />
+  <sub>⚙️ Built with precision and purpose • © 2025 Krish Moond</sub>
 </p>
-
----
-
-### 🧠 “Automation Zone” (Optional)
-You can add **auto-updating GitHub Actions**:
-- 📰 Fetch latest blog posts automatically  
-- 🎧 Update Spotify status live  
-- 📆 Update contribution graph daily  
-- 💡 Rotate quotes or achievements  
-
-Setup guide:  
-👉 [GitHub Actions Awesome Profile README Automation](https://github.com/marketplace/actions/github-profile-readme-generator)
