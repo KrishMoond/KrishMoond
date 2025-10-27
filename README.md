@@ -49,16 +49,6 @@ My focus areas include **Django**, **React**, and **Cloud-based applications**, 
 
 ---
 
-### 🏗️ Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [SustainLink 🌱](https://github.com/krishmoond/sustainlink) | A platform connecting eco-conscious individuals to collaborate on sustainability projects | Django, React, REST API |
-| [MailSync Dashboard 📬](https://github.com/krishmoond/mailsync) | Interactive email automation dashboard with attachment support | Django, JavaScript, Tailwind |
-| [Cloud Validator ☁️](https://github.com/krishmoond/cloud-validator) | Validation scripts for Krutrim Cloud environments | Python, CI/CD, Docker |
-
-*(Add or update with your current project links)*
-
 ---
 
 ### 📚 Recent Posts & Contributions
