@@ -1,26 +1,32 @@
 <!--
-  🧭 Professional GitHub Profile by Krish Moond
+  🧭 Professional GitHub Profile — Krish Moond
 -->
 
-<h1 align="center">Krish Moond</h1>
+<h1 align="center">Hi 👋, I'm Krish Moond</h1>
 <h3 align="center">Full Stack Developer | Cloud & AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="mailto:moondkrish921@gmail.com"><img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/krish-moond-39a914251/"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-View%20Site-green?style=flat&logo=vercel" /></a>
+  <a href="mailto:moondkrish921@gmail.com">
+    <img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-green?style=flat&logo=vercel" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a **Full Stack Developer** with a passion for building scalable, maintainable, and impactful software products.  
-My focus areas include **Django**, **React**, and **Cloud-based applications**, where I combine creativity with engineering precision.
+I’m a **Full Stack Developer** passionate about building scalable, maintainable, and user-centric applications.  
+I specialize in **Django**, **React**, and **Cloud-based solutions**, blending creativity with engineering precision.
 
-- 💡 Exploring: **Next.js**, **Machine Learning**, and **DevOps workflows**
-- 🧩 Experienced with: REST APIs, CI/CD pipelines, and Dockerized deployments
-- 🤝 Open to collaborating on **sustainability-focused tech** or **open-source projects**
+- 💡 Learning: **Next.js**, **Machine Learning**, **DevOps automation**
+- 🧩 Skilled in: REST APIs, CI/CD pipelines, Docker, authentication, cloud deployment
+- 🤝 Open to collaborations in **sustainability tech**, **AI projects**, and **open source**
 - 🧠 Motto: *"Build with purpose. Code with clarity."*
 
 ---
@@ -49,8 +55,6 @@ My focus areas include **Django**, **React**, and **Cloud-based applications**, 
 
 ---
 
----
-
 ### 📚 Recent Posts & Contributions
 > “Learning by building is the fastest way to grow.”
 
@@ -58,7 +62,7 @@ My focus areas include **Django**, **React**, and **Cloud-based applications**, 
 - [Next.js vs React: When to Choose Each](#)
 - [Automating GitHub Workflows for Efficiency](#)
 
-*(Automate updates via [dev.to API](https://docs.dev.to/api/) or a GitHub Action)*
+*(Tip: You can automate this section via Dev.to API + GitHub Actions)*
 
 ---
 
@@ -73,9 +77,15 @@ My focus areas include **Django**, **React**, and **Cloud-based applications**, 
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="mailto:moondkrish921@gmail.com"><img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/krish-moond-39a914251/"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
+  <a href="mailto:moondkrish921@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
