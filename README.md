@@ -2,8 +2,10 @@
   Professional GitHub Profile — Krish Moond
 -->
 
-<h1 align="center">Hi, I'm Krish Moond</h1>
-<h3 align="center">Full Stack Developer | Cloud & AI Enthusiast | Open Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm Krish Moond</h1>
+<h3 align="center">
+  Full Stack Developer • Cloud & AI Enthusiast • Open Source Contributor
+</h3>
 
 <p align="center">
   <a href="mailto:moondkrish921@gmail.com">
@@ -12,26 +14,35 @@
   <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
     <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=flat&logo=linkedin" />
   </a>
+  <!-- Replace when portfolio is ready -->
+  <!--
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-View%20Site-green?style=flat&logo=vercel" />
   </a>
+  -->
 </p>
 
 ---
 
-### About Me
+## 🚀 About Me
 
-I'm a **Full Stack Developer** passionate about building scalable, maintainable, and user-centric applications.
-I specialize in **Django**, **React**, and **Cloud-based solutions**, blending creativity with engineering precision.
+I’m a **Full Stack Developer** focused on building **scalable, secure, and user-centric applications**.  
+I enjoy turning complex problems into elegant solutions using modern web technologies and cloud platforms.
 
-- Learning: **Next.js**, **Machine Learning**, **DevOps automation**
-- Skilled in: REST APIs, CI/CD pipelines, Docker, authentication, cloud deployment
-- Open to collaborations in **sustainability tech**, **AI projects**, and **open source**
-- Motto: *"Build with purpose. Code with clarity."*
+**What I work with**
+- ⚙️ Backend: Django, REST APIs, Authentication, Database Design
+- 🎨 Frontend: React, Next.js, Tailwind CSS
+- ☁️ Cloud & DevOps: Docker, CI/CD pipelines, Linux
+- 🔐 Security: API security, environment configuration, best practices
+
+**Currently**
+- 🌱 Learning: **Next.js (advanced)**, **Machine Learning**, **DevOps automation**
+- 🤝 Open to: **Open-source**, **AI-driven projects**, **sustainability tech**
+- 💡 Philosophy: *“Build with purpose. Code with clarity.”*
 
 ---
 
-### Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +52,7 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
 
 ---
 
-### GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishmoond&show_icons=true&theme=github_dark&hide_border=true" />
@@ -55,17 +66,20 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
 
 ---
 
-### Recent Posts & Contributions
+## ✍️ Writing & Contributions
 
-> "Learning by building is the fastest way to grow."
+> *“Learning by building is the fastest way to grow.”*
 
-- [Building Scalable Django Apps with Docker](#)
-- [Next.js vs React: When to Choose Each](#)
-- [Automating GitHub Workflows for Efficiency](#)
+- 🧩 Designing scalable Django backends
+- 🚢 Dockerizing full-stack applications
+- ⚡ Automating workflows with CI/CD
+- 🎯 Improving performance, security, and maintainability
+
+*(Articles and blogs will be linked soon)*
 
 ---
 
-### Achievements
+## 🏆 Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat&logo=github" />
@@ -75,7 +89,7 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
 
 ---
 
-### Let's Connect
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="mailto:moondkrish921@gmail.com">
@@ -83,9 +97,6 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
   </a>
   <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
     <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
