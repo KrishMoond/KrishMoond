@@ -1,8 +1,8 @@
 <!--
-  🧭 Professional GitHub Profile — Krish Moond
+  Professional GitHub Profile — Krish Moond
 -->
 
-<h1 align="center">Hi 👋, I'm Krish Moond</h1>
+<h1 align="center">Hi, I'm Krish Moond</h1>
 <h3 align="center">Full Stack Developer | Cloud & AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
@@ -19,19 +19,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I’m a **Full Stack Developer** passionate about building scalable, maintainable, and user-centric applications.  
+I'm a **Full Stack Developer** passionate about building scalable, maintainable, and user-centric applications.
 I specialize in **Django**, **React**, and **Cloud-based solutions**, blending creativity with engineering precision.
 
-- 💡 Learning: **Next.js**, **Machine Learning**, **DevOps automation**
-- 🧩 Skilled in: REST APIs, CI/CD pipelines, Docker, authentication, cloud deployment
-- 🤝 Open to collaborations in **sustainability tech**, **AI projects**, and **open source**
-- 🧠 Motto: *"Build with purpose. Code with clarity."*
+- Learning: **Next.js**, **Machine Learning**, **DevOps automation**
+- Skilled in: REST APIs, CI/CD pipelines, Docker, authentication, cloud deployment
+- Open to collaborations in **sustainability tech**, **AI projects**, and **open source**
+- Motto: *"Build with purpose. Code with clarity."*
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishmoond&show_icons=true&theme=github_dark&hide_border=true" />
@@ -55,18 +55,18 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
 
 ---
 
-### 📚 Recent Posts & Contributions
-> “Learning by building is the fastest way to grow.”
+### Recent Posts & Contributions
+
+> "Learning by building is the fastest way to grow."
 
 - [Building Scalable Django Apps with Docker](#)
 - [Next.js vs React: When to Choose Each](#)
 - [Automating GitHub Workflows for Efficiency](#)
 
-*(Tip: You can automate this section via Dev.to API + GitHub Actions)*
-
 ---
 
-### 🎖️ Achievements
+### Achievements
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/Cloud-Validated%20Intern-orange?style=flat&logo=cloudflare" />
@@ -75,7 +75,8 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
+
 <p align="center">
   <a href="mailto:moondkrish921@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
@@ -91,5 +92,5 @@ I specialize in **Django**, **React**, and **Cloud-based solutions**, blending c
 ---
 
 <p align="center">
-  <sub>⚙️ Built with precision and purpose • © 2025 Krish Moond</sub>
+  <sub>Built with precision and purpose • © 2025 Krish Moond</sub>
 </p>
