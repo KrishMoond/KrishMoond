@@ -98,13 +98,13 @@ A sustainability-focused application connecting users around eco-friendly action
 
 ---
 
-## 3D isometric contribution graph
+## 3D contribution skyline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/main/skyline.png" width="100%" />
 </p>
 
-<sub align="center">An isometric render of the contribution calendar, regenerated daily (see setup note below).</sub>
+<sub align="center">A 3D model of the contribution graph, generated with GitHub's official <a href="https://skyline.github.com">Skyline</a> tool (see setup note below).</sub>
 
 ---
 
