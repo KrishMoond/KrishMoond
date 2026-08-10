@@ -98,6 +98,16 @@ A sustainability-focused application connecting users around eco-friendly action
 
 ---
 
+## 3D isometric contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+<sub align="center">An isometric render of the contribution calendar, regenerated daily (see setup note below).</sub>
+
+---
+
 ## Let's connect
 
 <p align="center">
@@ -114,3 +124,5 @@ A sustainability-focused application connecting users around eco-friendly action
 <p align="center">
   <sub>Built with precision and purpose</sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=120&section=footer" width="100%" />
