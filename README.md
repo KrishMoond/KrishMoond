@@ -2,10 +2,8 @@
   Professional GitHub Profile — Krish Moond
 -->
 
-<h1 align="center">Hi 👋, I'm Krish Moond</h1>
-<h3 align="center">
-  Full Stack Developer • Cloud & AI Enthusiast • Open Source Contributor
-</h3>
+<h1 align="center">Hi, I'm Krish Moond</h1>
+<h3 align="center">Java Full Stack Developer • Microservices • Spring Boot & Angular</h3>
 
 <p align="center">
   <a href="mailto:moondkrish921@gmail.com">
@@ -14,82 +12,71 @@
   <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
     <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=flat&logo=linkedin" />
   </a>
-  <!-- Replace when portfolio is ready -->
-  <!--
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Site-green?style=flat&logo=vercel" />
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
   </a>
-  -->
 </p>
 
 ---
 
-## 🚀 About Me
+## About me
 
-I’m a **Full Stack Developer** focused on building **scalable, secure, and user-centric applications**.  
-I enjoy turning complex problems into elegant solutions using modern web technologies and cloud platforms.
+I'm a **Java Full Stack Developer** currently working as an **Analyst at Capgemini**, building distributed backend systems with Spring Boot and Angular. I care about clean service boundaries, resilient messaging, and code that survives contact with real production traffic — not just demo scripts.
 
 **What I work with**
-- ⚙️ Backend: Django, REST APIs, Authentication, Database Design
-- 🎨 Frontend: React, Next.js, Tailwind CSS
-- ☁️ Cloud & DevOps: Docker, CI/CD pipelines, Linux
-- 🔐 Security: API security, environment configuration, best practices
+
+- **Backend:** Java 17/21, Spring Boot 3, Spring Cloud (Gateway, Config, Eureka), REST APIs, JWT auth
+- **Messaging & data:** RabbitMQ, transactional outbox pattern, PostgreSQL, Flyway
+- **Frontend:** Angular, TypeScript, signals-based state management
+- **Cloud & DevOps:** Docker, AWS S3, GitHub Actions CI/CD, Zipkin distributed tracing
+- **Practices:** Circuit breakers and retries with Resilience4j, role-based access control, database-per-service architecture
 
 **Currently**
-- 🌱 Learning: **Next.js (advanced)**, **Machine Learning**, **DevOps automation**
-- 🤝 Open to: **Open-source**, **AI-driven projects**, **sustainability tech**
-- 💡 Philosophy: *“Build with purpose. Code with clarity.”*
+
+- Building and hardening production-style microservices at Capgemini
+- Sharpening data structures and algorithms on LeetCode (Java)
+- Open to backend-heavy and distributed-systems collaboration
 
 ---
 
-## 🛠 Tech Stack
+## Featured projects
+
+**[Job Portal Microservices Platform](https://github.com/KrishMoond/job_portal_microservice)**
+A full-stack job portal with a Spring Boot microservices backend and Angular frontend — job posting, applications, resume management, interview scheduling, real-time notifications, search, and analytics, backed by JWT auth, RabbitMQ (transactional outbox pattern), and per-service PostgreSQL databases.
+
+**CoCreate**
+A collaborative project and task management platform for teams.
+
+**EcoConnect**
+A sustainability-focused application connecting users around eco-friendly action.
+
+---
+
+## Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,js,html,css,tailwind,git,github,linux,mysql,firebase,docker,postman,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,postgres,rabbitmq,docker,aws,githubactions,git,github,linux,vscode&perline=7" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishmoond&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmoond&theme=github-dark-blue&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KrishMoond&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishMoond&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmoond&layout=compact&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=krishmoond&theme=onedark&margin-w=15&row=1" />
-</p>
-
----
-
-## ✍️ Writing & Contributions
-
-> *“Learning by building is the fastest way to grow.”*
-
-- 🧩 Designing scalable Django backends
-- 🚢 Dockerizing full-stack applications
-- ⚡ Automating workflows with CI/CD
-- 🎯 Improving performance, security, and maintainability
-
-*(Articles and blogs will be linked soon)*
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Cloud-Validated%20Intern-orange?style=flat&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=flat&logo=visualstudiocode" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishMoond&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=KrishMoond&theme=onedark&margin-w=15&row=1" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## Let's connect
 
 <p align="center">
   <a href="mailto:moondkrish921@gmail.com">
@@ -103,5 +90,5 @@ I enjoy turning complex problems into elegant solutions using modern web technol
 ---
 
 <p align="center">
-  <sub>Built with precision and purpose • © 2025 Krish Moond</sub>
+  <sub>Built with precision and purpose</sub>
 </p>
