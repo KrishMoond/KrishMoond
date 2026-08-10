@@ -101,7 +101,7 @@ A sustainability-focused application connecting users around eco-friendly action
 ## 3D isometric contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/output/profile-night-rainbow.svg" width="100%" />
 </p>
 
 <sub align="center">An isometric render of the contribution calendar, regenerated daily (see setup note below).</sub>
