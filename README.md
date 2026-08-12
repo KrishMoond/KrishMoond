@@ -95,7 +95,13 @@ A sustainability-focused application connecting users around eco-friendly action
 </p>
 
 ---
+## 3D contribution snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<sub align="center">Generated automatically each day by a scheduled GitHub Action (see setup note below).</sub>
 ## 3D contribution graph
 
 <p align="center">
