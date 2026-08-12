@@ -14,12 +14,15 @@
   <a href="mailto:moondkrish921@gmail.com">
     <img src="https://img.shields.io/badge/Email-moondkrish921%40gmail.com-red?style=flat&logo=gmail" />
   </a>
+
   <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
     <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=flat&logo=linkedin" />
   </a>
+
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=KrishMoond&style=flat&color=blue" />
 </p>
 
@@ -31,7 +34,7 @@
 
 I'm a **Java Full Stack Developer** building distributed backend systems with Spring Boot and Angular. I care about clean service boundaries, resilient messaging, and code that survives contact with real production traffic — not just demo scripts.
 
-**What I work with**
+### What I work with
 
 - **Backend:** Java 17/21, Spring Boot 3, Spring Cloud (Gateway, Config, Eureka), REST APIs, JWT auth
 - **Messaging & data:** RabbitMQ, transactional outbox pattern, PostgreSQL, Flyway
@@ -39,7 +42,7 @@ I'm a **Java Full Stack Developer** building distributed backend systems with Sp
 - **Cloud & DevOps:** Docker, AWS S3, GitHub Actions CI/CD, Zipkin distributed tracing
 - **Practices:** Circuit breakers and retries with Resilience4j, role-based access control, database-per-service architecture
 
-**Currently**
+### Currently
 
 - Building and hardening production-style microservices architectures
 - Sharpening data structures and algorithms on LeetCode (Java)
@@ -49,13 +52,16 @@ I'm a **Java Full Stack Developer** building distributed backend systems with Sp
 
 ## Featured projects
 
-**[Job Portal Microservices Platform](https://github.com/KrishMoond/job_portal_microservice)**
+### [Job Portal Microservices Platform](https://github.com/KrishMoond/job_portal_microservice)
+
 A full-stack job portal with a Spring Boot microservices backend and Angular frontend — job posting, applications, resume management, interview scheduling, real-time notifications, search, and analytics, backed by JWT auth, RabbitMQ (transactional outbox pattern), and per-service PostgreSQL databases.
 
-**CoCreate**
+### CoCreate
+
 A collaborative project and task management platform for teams.
 
-**EcoConnect**
+### EcoConnect
+
 A sustainability-focused application connecting users around eco-friendly action.
 
 ---
@@ -74,11 +80,13 @@ A sustainability-focused application connecting users around eco-friendly action
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KrishMoond&show_icons=true&theme=github_dark&hide_border=true" />
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishMoond&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishMoond&layout=compact&theme=github_dark&hide_border=true" />
+
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=KrishMoond&theme=onedark&margin-w=15&row=1" />
 </p>
 
@@ -88,35 +96,32 @@ A sustainability-focused application connecting users around eco-friendly action
 
 ---
 
-## 3D contribution snake
+## 3D contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
-
-<sub align="center">Generated automatically each day by a scheduled GitHub Action (see setup note below).</sub>
-
----
-
-## 3D contribution skyline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishMoond/KrishMoond/main/skyline.png" width="100%" />
+  <sub>
+    Generated automatically each day by a scheduled GitHub Action.
+  </sub>
 </p>
-
-<sub align="center">A 3D model of the contribution graph, generated with GitHub's official <a href="https://skyline.github.com">Skyline</a> tool (see setup note below).</sub>
 
 ---
 
 ## Let's connect
 
 <p align="center">
+
   <a href="mailto:moondkrish921@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+
   <a href="https://www.linkedin.com/in/krish-moond-39a914251/">
     <img src="https://img.shields.io/badge/LinkedIn-Krish%20Moond-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
 </p>
 
 ---
